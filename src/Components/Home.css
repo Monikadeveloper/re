@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+h1 {
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+ul {
+  display: flex;
+  justify-content: center;
+  width: 500px;
+  margin-left: 600px;
+}
+.list-group-item {
+  display: flex;
+  justify-content: space-evenly;
+}
+.button-div {
+  display: flex;
+  justify-content: space-evenly;
+}
+
